@@ -1,8 +1,8 @@
-Minimizing the 2D Rastrigin Function
+**Minimizing the 2D Rastrigin Function**
 
 This repository contains Python code for minimizing the 2D Rastrigin function, a well-known benchmark problem in optimization. The Rastrigin function is a non-convex function often used to evaluate the performance of optimization algorithms due to its complex, multimodal surface.
 
-Overview
+**Overview**
 
 The Rastrigin function is defined as:
 
